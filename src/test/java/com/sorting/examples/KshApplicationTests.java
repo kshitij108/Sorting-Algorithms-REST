@@ -1,4 +1,4 @@
-package com.ksh.ksh;
+package com.sorting.examples;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
